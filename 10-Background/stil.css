@@ -1,0 +1,18 @@
+
+
+
+.gorsel {
+
+  width: 350px;
+  height: 350px;
+  background-color: red;
+  background-image: url(ekran.png);
+  background-repeat: repeat-x;
+  background-repeat: repeat-y;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 220px 20px;
+
+
+}
+
